@@ -1,0 +1,6 @@
+[
+    {"producto": "Torta de Chocolate", "precio": 1500, "imagen":"img/torta-chocolate.jpg"},
+    {"producto": "Galletas de Avena", "precio": 500, "imagen":"img/galletasavena.jpg"},
+    {"producto": "Torta de Frutilla", "precio": 2000, "imagen":"img/tortaFrutilla.jpg"},
+    {"producto": "Torta de Ferrero", "precio": 2000, "imagen":"img/tortaferrero.jpg"}
+]
